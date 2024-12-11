@@ -38,6 +38,8 @@ Ans - Well, because it is still a very difficult and computationally intensive t
 
 * Visualized Clusters in 2-D using t-SNE to further confirm the feasiblity of clusters.
 * Performed Gaussian Mixture Modelling since it is a Generative and not Discriminative classifier, also it's a soft classifier, to allow further scope for data-points on borders of clusters or customers which behave like 2 or more clusters. Also it can form "non-round" clusters better too.
+
+
 ![Insights4](https://private-user-images.githubusercontent.com/86561124/268485617-0ab1cd2a-f119-41d3-9087-843c254f21ba.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5MzQ3NDAsIm5iZiI6MTczMzkzNDQ0MCwicGF0aCI6Ii84NjU2MTEyNC8yNjg0ODU2MTctMGFiMWNkMmEtZjExOS00MWQzLTkwODctODQzYzI1NGYyMWJhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjExVDE2MjcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlMjgxM2U0NTc3MTVhZDMwYWNmMWU3MjNiZDVkYzc5MTk0MDUxNGJjZTU5YmQyYjg2MTIwNzU5MzhmNzNjMmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.df-Vc8GM6wCGn5nXZljgWDLhjHgNVs6g-aVRkJ9_Pjg)
 
 * Performed **Cluster Analysis** to determine properties and behaviours of clusters, understood the physical significance of the clusters in real life, and went ahead to think of how the company should make different strategies for these clusters.
